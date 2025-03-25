@@ -165,6 +165,6 @@ Web scraping may be subject to legal and ethical constraints. Always respect web
 
 ## 📞 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [atishay005@gmail.com](mailto:atishay005@gmail.com)
 
 Project Link: [https://github.com/atishayjain005/webpage-summarizer](https://github.com/atishayjain005/webpage-summarizer)
